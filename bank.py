@@ -1,4 +1,5 @@
 # bank.py
+# Weekly Tasks 02
 # This program is to sum two amounts(in Cents) entered by the user, and print out the result in Euros.
 # author: Galal Abdelaziz
 
