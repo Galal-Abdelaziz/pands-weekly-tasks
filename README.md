@@ -11,5 +11,6 @@ Weekly task 04 resources:
 weekly lectures ; https://www.youtube.com/watch?v=6iF8Xb7Z3wQ ; https://www.youtube.com/watch?v=DZwmZ8Usvnk
 
 Weekly task 05 resources:
+weekly lectures ; https://docs.python.org/3/library/datetime.html#datetime.date.weekday ; https://www.shecodes.io/athena/10185-how-to-check-what-day-of-the-week-it-is-in-python#:~:text=date%20using%20datetime.-,datetime.,)%20to%206%20(Sunday).
 
 Weekly task 06 resources:
