@@ -14,3 +14,6 @@ Weekly task 05 resources:
 weekly lectures ; https://docs.python.org/3/library/datetime.html#datetime.date.weekday ; https://www.shecodes.io/athena/10185-how-to-check-what-day-of-the-week-it-is-in-python#:~:text=date%20using%20datetime.-,datetime.,)%20to%206%20(Sunday).
 
 Weekly task 06 resources:
+weekly lectures ; https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/ ; https://runestone.academy/ns/books/published/thinkcspy/MoreAboutIteration/NewtonsMethod.html ; https://www.toppr.com/guides/python-guide/examples/python-examples/functions/power-anonymous/python-program-display-powers-2-using-anonymous-function/#:~:text=Note%20that%20the%20operator%20that,powers%20of%20two%20as%20well. ; https://stackoverflow.com/questions/25254868/how-can-i-stop-printing-a-float-3-spaces-after-decimal
+
+Weekly task 07 resources:
