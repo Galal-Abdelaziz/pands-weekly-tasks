@@ -19,7 +19,7 @@ def sqrt(number, precision=0.00001):
 
     # Finding square root by using while loop and abs() function to keep trying numbers (guess), until it finds a number (guess) when raised to the power of two, minus the original number is closest to 0.00001. 
     while abs(guess**2 - number) > precision:   
-        guess = (guess + number / guess) / 2.0
+        guess = (guess + number / guess) / 2.0  # n/2.0  = n*0.5
     
     return round(guess, 1)  # Returning the Square root and Rounding it to 1 decimal place using round function.
 

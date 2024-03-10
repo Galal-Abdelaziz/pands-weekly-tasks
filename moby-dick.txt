@@ -1,0 +1,8 @@
+This is a test txt file, Using this file as a test for the weekly task 7 (countind the number of e's in file)
+This week we are looking at:
+Reading and writing to files
+Intro to JSON and CSV file formats
+and some optional extra material on:
+I have a long (30 minute video of my using csv to extract email domains from an excel file
+I would like you to know that pandas module exists this is handy for analysing excel file  (you will use it later to analyse data)
+The weekly task gets you to read a file (you should get/make your own test file) and do some basic analysis.
