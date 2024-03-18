@@ -2,6 +2,7 @@
 # Weekly Tasks 07
 # This program reads in a text file from an argument on the command line and outputs the number of e's it contains.
 # author: Galal Abdelaziz
+# test code "python es.py moby-dick.txt"
 
 import argparse # Import the argparse module for parsing command line arguments.
 
